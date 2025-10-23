@@ -1,0 +1,24 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft AFK Bot | Provanas",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "minecraft",
+    "bot",
+    "mineflayer",
+    "afk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.33.0",
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
